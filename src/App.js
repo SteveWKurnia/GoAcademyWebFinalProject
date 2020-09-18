@@ -1,8 +1,8 @@
 import React from 'react';
-import YourComponentName from 'components/your-component-name';
+import MainPage from 'components/main-page';
 
 const App = () => {
-  return <YourComponentName />;
+  return <MainPage />;
 };
 
 export default App;

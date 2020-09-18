@@ -1,0 +1,17 @@
+.merchant_card {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin: 25px;
+}
+
+.merchant_card_desc {
+    padding: 10px;
+    text-overflow: ellipsis;
+}
+
+.image {
+    object-fit: cover;
+    width: 100%;
+    height: 250px;
+}
